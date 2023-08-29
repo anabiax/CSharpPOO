@@ -1,0 +1,15 @@
+/home/anasantos/CSharpPoo/bin/Debug/net7.0/CSharpPoo
+/home/anasantos/CSharpPoo/bin/Debug/net7.0/CSharpPoo.deps.json
+/home/anasantos/CSharpPoo/bin/Debug/net7.0/CSharpPoo.runtimeconfig.json
+/home/anasantos/CSharpPoo/bin/Debug/net7.0/CSharpPoo.dll
+/home/anasantos/CSharpPoo/bin/Debug/net7.0/CSharpPoo.pdb
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.csproj.AssemblyReference.cache
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.AssemblyInfoInputs.cache
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.AssemblyInfo.cs
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.csproj.CoreCompileInputs.cache
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.dll
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/refint/CSharpPoo.dll
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.pdb
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/CSharpPoo.genruntimeconfig.cache
+/home/anasantos/CSharpPoo/obj/Debug/net7.0/ref/CSharpPoo.dll
